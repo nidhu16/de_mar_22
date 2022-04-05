@@ -1,9 +1,10 @@
+
 hey there it is my first file
 ^X Exit
 
-
-
-
+This is my second line in my first file
+Im happy to update this file
+Updating again
 
 
 
@@ -11,6 +12,8 @@ hey there it is my first file
 hey there its my first file
 ^T
 
+;q
+;wq
 
 
 
@@ -52,7 +55,8 @@ hey there its my first file
 
 
 
-
+this is my first file. 
+This is my second command in first file
 
 
 
