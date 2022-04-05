@@ -8,12 +8,8 @@ Updating again
 
 
 
-
-hey there its my first file
-^T
-
-;q
-;wq
+hey there its my first f
+Hey there its a new line in branch feature1
 
 
 
